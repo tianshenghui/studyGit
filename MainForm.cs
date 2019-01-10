@@ -480,7 +480,7 @@ namespace PIESDKUser
 
         private void toolStripButton2_Click(object sender, EventArgs e)
         {
-            //string imagePath = @"D:\EC\data.tif";
+      
             //string rulePath = @"D:\EC\testvv.dcp";
             //int result=Class1.AnalyseImage(imagePath, rulePath);
             //MessageBox.Show(result.ToString());
