@@ -481,7 +481,7 @@ namespace PIESDKUser
         private void toolStripButton2_Click(object sender, EventArgs e)
         {
       
-            //string rulePath = @"D:\EC\testvv.dcp";
+    
             //int result=Class1.AnalyseImage(imagePath, rulePath);
             //MessageBox.Show(result.ToString());
             SegClassForm segClassForm = new SegClassForm();
