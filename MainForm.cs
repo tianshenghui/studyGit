@@ -482,7 +482,6 @@ namespace PIESDKUser
         {
             //string imagePath = @"D:\EC\data.tif";
             //string rulePath = @"D:\EC\testvv.dcp";
-            string outpath = @"D:\EC\TESTf.shp";
             //int result=Class1.AnalyseImage(imagePath, rulePath);
             //MessageBox.Show(result.ToString());
             SegClassForm segClassForm = new SegClassForm();
